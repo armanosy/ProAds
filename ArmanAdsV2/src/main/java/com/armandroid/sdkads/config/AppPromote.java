@@ -9,7 +9,7 @@ import com.armandroid.sdkads.interfaces.OnPromoteAppListener;
 public class AppPromote {
     public static OnPromoteAppListener onPromoteAppListener;
     public static void initializeAppPromote(Activity activity){
-            ConnectionPromote connectionPromote = new ConnectionPromote(activity,"https://www.hicham.colombeblanche.com");
+            ConnectionPromote connectionPromote = new ConnectionPromote(activity,"https://");
             connectionPromote.setOnPromoteConnected(new OnConnectedListener() {
                 @Override
                 public void onAppConnected() {
