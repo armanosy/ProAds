@@ -16,9 +16,9 @@ import java.util.List;
 public class AppsConfig {
 
     public static String appPromote = "developers_apps";
-    public static String appName = "app_name";
+    public static String appName = "title";
     public static String appPackage = "app_id";
-    public static String appPreview = "app_icon";
+    public static String appPreview = "preview";
     public static String ANALYSKEY = "T+jldPZgLshPb1sJGIme1tnT0tiG1I85x0V64nM5GGM=";
     public static String APPKEY = "2f8dUHXOScKGuDEEdG6mxA==";
 
