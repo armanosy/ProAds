@@ -2,6 +2,7 @@ package com.armandroid.armanads;
 
 import android.app.Activity;
 import android.provider.Settings;
+import androidx.multidex.BuildConfig;
 
 import androidx.annotation.Nullable;
 
