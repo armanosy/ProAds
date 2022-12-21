@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mediation_ads.xml.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\src\\main\\res\\layout\\activity_mediation_ads.xml"
+    },
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_ads.xml.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\src\\main\\res\\layout\\activity_view_ads.xml"
+    },
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_native.xml.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\src\\main\\res\\layout\\activity_native.xml"
+    },
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_config.xml.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\src\\main\\res\\xml\\network_config.xml"
+    },
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_android_black_24dp.xml.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\src\\main\\res\\drawable\\ic_android_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alien2.webp.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\src\\main\\res\\drawable\\alien2.webp"
+    },
+    {
+        "merged": "D:\\2Naghma\\ArmanMultyAds-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_banner.xml.flat",
+        "source": "D:\\2Naghma\\ArmanMultyAds-master\\app\\src\\main\\res\\layout\\activity_banner.xml"
+    }
+]
