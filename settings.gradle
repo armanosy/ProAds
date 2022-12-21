@@ -1,0 +1,3 @@
+rootProject.name = "ArmanMultyAdsv2"
+include ':app'
+include ':ArmanAdsV2'
